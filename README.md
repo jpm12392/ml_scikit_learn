@@ -7,4 +7,7 @@ This script generates some random data, splits it into training and testing sets
 
 <br/>
 <!-- Image Processing -->
-Creating an image processing model in Python typically involves using libraries like OpenCV, NumPy, and possibly others depending on your specific requirements. Here's a simple example using OpenCV to perform basic image processing operations like reading an image, converting it to grayscale, and applying a Gaussian blur.
+Creating an image processing model in Python typically involves using libraries like OpenCV, NumPy, and possibly others depending on your specific requirements. Here's a simple example using OpenCV to perform basic image processing operations like reading an image, converting it to grayscale, and applying a Gaussian blur.<br/><br/>
+<img width="916" alt="image" src="https://github.com/jpm12392/ml_scikit_learn/assets/32673106/0f0ff6f7-0665-4044-91f0-1388c5dc22c4">
+
+
